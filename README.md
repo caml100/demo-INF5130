@@ -1,34 +1,40 @@
-# Démo-INF5130-Automne2025
-Dépôt contenant les solutions des démonstrations du cours INF5130 (Algorithmique) pour la session d'automne 2025.
+# Démo-INF5130
+Dépôt contenant les énoncés et les solutionnaires des démonstrations du cours INF5130 (Algorithmique) pour les sessions d'automne 2025 et 2026.
 
 ## Composition
 
-Pour chaque séance, il y aura mes solutions aux exercises abordés dans les démos ainsi que des implémentations des pseudocodes (si applicables) dans les languages suivants :
-- C++
-- *OCaml
-- Python et/ou Prolog (algorithme de retour arrière)
+Le contenu de ce dépôt contient/contiendra les éléments suivants :
+- L'énoncé des séries d'exercises
+- Les solutionnaire de ces séries
+- Des implémentations d'algorithmes à analyser ou à écrire présents dans les séries d'exercises ou de temps en temps certains algorithmes vus en classà me contactere
+- Les énoncés de révision ainsi que leur corrigé. Pour le moment, seulement ceux de la session d'automne 2025 sont disponible, mais d'autres seront bientôt disponible !
+- Contenu extra : diapos concernant de la matière plus spécifique, série d'exercises de rappel et des aides mémoires
 
-Aussi peut être de temps en temps certains algorithmes vu durant les séances magistrales implémentés ;).
+
+L'implémentation des algorithmes (si présent) seront faits dans les langages suivants (si possible et si le temps me le permet) :
+- C++
+- OCaml (La grande majorité sera écrit dans le paradigme fonctionnel)
+
 
 ## Publication des solutions
 
-Les solutions et les implémentations (si applicables) seront mis dans ce dépôt dans un delai de 3 à 4 jours après la démonstration. 
-Ceci à pour but d'essayer de votre bord les exercises qui fût abordés pendant la séance. En revanche, l'énoncé du prochain laboratoire 
-sera mis au plus tard au lendemain de la démonstration.
+Le solutionnaire de chaque série sera disponible une fois que la série en question ait été complétée. Je vous recommande fortement de venir en labs pour comprendre ou avoir des explicvations supplémentaires sur certains exercises ou même sur de la matière qui n'a peut être pas été potentiellement vu ou partiellement effleuré.
+
+Important : la plupart des séries d'exercises sont prévus pour être complétées en deux semaines.
 
 
 ## Contacts
 
-Pour des questions sur le matériel de laboratoire, vous pouvez me contacter via les 3 façons suivantes :
+Pour me poser des questions sur le matériel du laboratoire ou sur de la matière spécifique du cours ou bien pour prendre rendez-vous, vous pouvez me contacter via les 3 façons suivantes :
 
 1. Via Mattermost 
 2. Via courriel <martinez_cruz.andrey@courrier.uqam.ca>
-3. Via discord (pridateltheimposta)
+3. Via discord `pridateltheimposta`
 
+Je suis souvent disponible et assez fléxible donc n'hésitez pas à me contacter!
 
-Note : Pour le code écrit en OCaml, il y aura du code impératif tout comme du code fonctionnel ou les deux. Si vous faites cette session INF6120, prenait garde de ne pas prende note
-sur le code OCaml impératif pour éviter des problèmes pour le cours citées précédemment. Ceci s'applique aussi pour ceux qui n'ont pas encore fait le cours. Pour ceux qui ont fait le cours,
-il y aura un document en annexe de ce dépôt expliquant comment utiliser la partie impérative de OCaml. Les programmes écrits en OCaml peuvent être lancer via la commande `utop`.
+## Contenu de la session d'automne 2025 
 
+Le seul contenu qui sera présent concernant cette session seront les diapos associés à certaines matières ainsi que les énoncés de révision pour les examens.
 
 Bonne session à vous tous. :)
